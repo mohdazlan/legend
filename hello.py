@@ -17,3 +17,5 @@
 # 3)The output: "HI xxxxx  , the total amount to pay is xxx, the sales tax is xxx
 # sales amount = total sales + sales tax
 # barang $1500 tax 6.25%   maka nilai keseluruhan ialah 1631.25"
+name1 = input("What is your name?\n")
+name2 = input("What is your name?\n")
